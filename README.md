@@ -23,4 +23,4 @@ on, you can start your local development environment as follows:
 
     $ npm start
 
-After making sure everything runs you can [visit](localhost:3000/) to see the project in your browser of choice.
+After making sure everything runs you can visit localhost:3000 to see the project in your browser of choice.
